@@ -1,7 +1,7 @@
 ## [Rui Ma]
 
 # 教育经历
-* B.S.,Northwest Normal University,Lan Zhou,China.(2019)  
+* B.S.,Northwest Normal University,Lan Zhou,China.(2019).  
 
 # 研究兴趣
 * 偏微分方程与动力系统(Partial differential equation and Dynamical system)  
